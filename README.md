@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tahsinaislam
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: email: ti429@nyu.edu
 
 <!---
